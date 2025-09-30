@@ -6,7 +6,7 @@ Method 1: Using GitHub Website
 
     Fill in repository details:
 
-        Repository name: gender-equality-violence-reporting
+        Repository name: Gender-Equality-App
 
         Description: A MERN stack application for reporting gender-based violence, promoting gender equality and supporting SDG goals
 
@@ -29,7 +29,7 @@ cd gender-equality-app
 git init
 
 # Create initial files
-echo "# Gender Equality Violence Reporting App" >> README.md
+echo "# Gender-Equality-App" >> README.md
 echo "# MERN Stack Gender Equality App" >> README.md
 echo "## SDG Alignment: Goal 5 - Gender Equality" >> README.md
 
@@ -40,7 +40,7 @@ git add README.md
 git commit -m "Initial commit: Project setup"
 
 # Add your GitHub repository as remote origin
-git remote add origin https://github.com/YOUR_USERNAME/gender-equality-violence-reporting.git
+git remote add origin https://github.com/Robinhood-j/gender-equality-App.git
 
 # Push to GitHub
 git branch -M main
@@ -64,7 +64,7 @@ Step 3: Create Detailed README.md
 Copy this content to your README.md file:
 markdown
 
-# Gender Equality Violence Reporting App
+# Gender Equality App
 
 ## 📋 Project Overview
 A MERN stack application for reporting gender-based violence, promoting gender equality and supporting Sustainable Development Goals (SDGs).
